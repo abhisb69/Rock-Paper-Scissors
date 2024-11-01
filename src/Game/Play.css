@@ -1,0 +1,48 @@
+.score-container h3 {
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+.score-container p {
+  margin: 5px;
+  color: #555555;
+}
+p {
+  font-weight: 550;
+}
+img {
+  height: 200px;
+  width: 200px;
+  margin-right: 40px;
+  border-radius: 50%;
+  border: 5px solid black;
+}
+.score-wraper {
+  height: 120px;
+  width: 60%;
+  border-radius: 20px;
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.wraper {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+}
+.ig {
+  margin-top: 50px;
+}
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cardd {
+  width: 80px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
